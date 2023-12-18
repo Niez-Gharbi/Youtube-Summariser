@@ -42,3 +42,7 @@ streamlit run app.py
 ```
 
 Visit http://localhost:8501 in your web browser to use the app.
+
+## License
+
+This project is licensed under the Apache License 2.0[https://github.com/Niez-Gharbi/Youtube-Summariser/blob/main/LICENSE].
